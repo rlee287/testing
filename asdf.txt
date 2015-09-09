@@ -1,1 +1,6 @@
-Goodbye, world!!
+Goals:
+    -Figure out how to create branches from gitbash
+    -Use gitbash to stage edits from branch
+    -Figure out pull requests
+Lower priority:
+    -Find out if and why GitHub Desktop is buggy
