@@ -1,2 +1,5 @@
-Eclipse Install Party
-Github Tutorials
+-Send out signup sheet
+-Eclipse Install Party
+-Github Tutorials
+    -Installing Github Desktop and GitBash
+    -How to use?(need to split)
