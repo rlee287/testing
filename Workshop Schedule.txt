@@ -1,4 +1,4 @@
--Send out signup form (Share google forms)
+-Send out signup form (Share google forms) 9/19-20/15
 -Eclipse Install Party
 -Github Tutorials
     -Installing Github Desktop and GitBash
