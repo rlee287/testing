@@ -1,8 +1,8 @@
 Goals:
-    -Figure out how to create branches from gitbash
+    -Practice branching from gitbash
     -Use gitbash to stage edits from branch
     -Figure out pull requests from gitbash
 
 Desktop Client:
     -Find out if and why GitHub Desktop is buggy
-    -Does not do everything
+    -Learned: Does not do everything
