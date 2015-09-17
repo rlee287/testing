@@ -6,3 +6,6 @@ Goals:
 Desktop Client:
     -Find out if and why GitHub Desktop is buggy
     -Learned: Does not do everything
+
+GitGUI:
+    -Learn how good it is
