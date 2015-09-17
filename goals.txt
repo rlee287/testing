@@ -8,4 +8,4 @@ Desktop Client:
     -Learned: Does not do everything
 
 GitGUI:
-    -Learn how good it is
+    -Learn how it handles branches
