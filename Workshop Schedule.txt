@@ -1,6 +1,5 @@
--Send out signup form (Share google forms) 9/19-20/15
--Eclipse Install Party (Ryan)
--Electronics Workshop
+-Eclipse Install Party
 -Github Tutorials
-    -Installing Github Desktop and GitBash (Sang Gi?)
-    -How to use?(need to split)
+    -Installing Github Desktop, GitGUI and GitBash
+    -Pulling code
+    -Deploying code

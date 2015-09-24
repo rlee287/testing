@@ -1,11 +1,13 @@
 Goals:
     -Practice branching from gitbash
     -Use gitbash to stage edits from branch
-    -Figure out pull requests from gitbash
+    -Figure out pull requests from gitbash and merging
+    -Merge conflict resolution
 
 Desktop Client:
     -Find out if and why GitHub Desktop is buggy
     -Learned: Does not do everything
 
 GitGUI:
-    -Learn how it handles branches
+    -Learn how to commit and so on
+    -Learn to use it to resolve merge conflicts
