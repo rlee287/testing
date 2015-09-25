@@ -1,6 +1,9 @@
 -Software Install Party
     -Gitbash, GitGUI and/or Github Desktop
     -Eclipse (Luna)
+        -CDT for Eclipse Java
+        -Java for Eclipse C/C++
 -Github Tutorials
     -Pulling code
-    -Deploying code
+    -Opening code
+-Deploying code

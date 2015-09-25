@@ -2,10 +2,12 @@ Goals:
     -Practice branching from gitbash
     -Figure out pull requests from gitbash and merging
     -Merge conflict resolution
+    -GitHowTo Tutorials
 
 Desktop Client:
     -Find out if and why GitHub Desktop is buggy
     -Learned: Does not do everything
+    -What can it do
 
 GitGUI:
     -Learn how to commit and so on
