@@ -1,6 +1,5 @@
 Goals:
     -Practice branching from gitbash
-    -Use gitbash to stage edits from branch
     -Figure out pull requests from gitbash and merging
     -Merge conflict resolution
 

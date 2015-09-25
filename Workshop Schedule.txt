@@ -1,5 +1,6 @@
--Eclipse Install Party
+-Software Install Party
+    -Gitbash, GitGUI and/or Github Desktop
+    -Eclipse (Luna)
 -Github Tutorials
-    -Installing Github Desktop, GitGUI and GitBash
     -Pulling code
     -Deploying code
