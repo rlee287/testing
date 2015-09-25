@@ -1,5 +1,6 @@
 Goals:
     -Practice branching from gitbash
+    -Make sure to view graph!
     -Figure out pull requests from gitbash and merging
     -Merge conflict resolution
     -GitHowTo Tutorials
@@ -11,4 +12,4 @@ Desktop Client:
 
 GitGUI:
     -Learn how to commit and so on
-    -Learn to use it to resolve merge conflicts
+    -Learn to use GUI to resolve merge conflicts
