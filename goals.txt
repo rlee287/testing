@@ -3,13 +3,12 @@ Goals:
     -Make sure to view graph!
     -Figure out pull requests from gitbash and merging
     -Merge conflict resolution
-    -GitHowTo Tutorials
-    -Confirm how command line text editors work
+    -Follow GitHowTo Tutorials
+    -Learn how command line text editors work
 
 Desktop Client:
     -Find out if and why GitHub Desktop is buggy
-    -Learned: Does not do everything
-    -What can it do
+    -Learn what can it do
 
 GitGUI:
     -Learn how to commit and so on
