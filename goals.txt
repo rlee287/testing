@@ -4,6 +4,7 @@ Goals:
     -Figure out pull requests from gitbash and merging
     -Merge conflict resolution
     -GitHowTo Tutorials
+    -Confirm how command line text editors work
 
 Desktop Client:
     -Find out if and why GitHub Desktop is buggy
