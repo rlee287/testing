@@ -8,7 +8,7 @@ Goals:
 
 Desktop Client:
     -Find out if and why GitHub Desktop is buggy
-    -Learn what can it do
+    -Learn what it can do
 
 GitGUI:
     -Learn how to commit and so on
