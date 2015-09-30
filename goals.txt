@@ -1,8 +1,7 @@
 Goals:
     -Practice branching from gitbash
     -Make sure to view graph!
-    -Figure out pull requests from gitbash and merging
-    -Merge conflict resolution
+    -Figure out merge conflict resolution
     -Follow GitHowTo Tutorials (www.githowto.com)
     -Learn how to use VIM effectively
 
