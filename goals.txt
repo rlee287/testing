@@ -1,9 +1,10 @@
 Goals:
     -Practice branching from gitbash
     -Make sure to view graph!
-    -Figure out merge conflict resolution
+    -Practice merge conflict resolution
     -Follow GitHowTo Tutorials (www.githowto.com)
     -Learn how to use VIM effectively
+    -Study undocumented commands
 
 Desktop Client:
     -Find out if and why GitHub Desktop is buggy
