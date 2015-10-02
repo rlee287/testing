@@ -5,6 +5,7 @@ Goals:
     -Follow GitHowTo Tutorials (www.githowto.com)
     -Learn how to use VIM effectively
     -Study undocumented commands
+    -Set up SSH keys
 
 Desktop Client:
     -Find out if and why GitHub Desktop is buggy
