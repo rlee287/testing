@@ -5,6 +5,7 @@
         -Java for Eclipse C/C++
 -Github Tutorials
     -Setting up gitconfig and SSH
-    -Pulling code
-    -Opening code
+    -Basic commands
+        -Pulling code
+        -Opening code
 -Deploying code onto RoboRIO
