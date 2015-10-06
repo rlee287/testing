@@ -4,7 +4,7 @@
         -CDT for Eclipse Java
         -Java for Eclipse C/C++
 -Github Tutorials
-    -Setting up gitconfig and SSH
+    -Setting up gitconfig and SSH vs HTTPS
     -Basic commands
         -Pulling code
         -Opening code
