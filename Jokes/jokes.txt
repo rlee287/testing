@@ -1,0 +1,6 @@
+$ git clone git@github.com:FKafka/TheCastle
+Cloning into "TheCastle"...
+Failed: Your legal claim to this repository is not valid, yet, taking certain auxiliary circumstances into account, you are permitted to learn more about it."
+$ ssh -T git@github.com
+Sorry, you are too loud.
+$ 
