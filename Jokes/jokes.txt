@@ -7,7 +7,8 @@ Blaming...
 Placing JosephK.dll into folder "TheTrial"
 Executing JosephK.dll...Done
 JosephK.dll exited with exit code 38659503962656(0x2e291e003a20).
-JosephK documentation can be found in https://en.wikipedia.org/wiki/The_Trial
+JosephK.dll documentation can be found in https://en.wikipedia.org/wiki/The_Trial
 $ ssh -T git@github.com
 Sorry, you are too loud.
 $ 
+
