@@ -5,6 +5,6 @@ Commit descriptions inspired by XKCD
 
 It also includes planning of workshops
 
-Undocumented commands: vim, gitpad
+Undocumented commands: vim, gitpad, ssh related, gpg related
 
-Why doesn't man or info work?
+Find out which commands MINGW64 supports
