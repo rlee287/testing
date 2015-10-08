@@ -11,6 +11,8 @@ JosephK.dll documentation can be found in https://en.wikipedia.org/wiki/The_Tria
 $ git status GSamsa
 Currently a verminous bug
 Has been added to .gitignore
+$ git checkout Amerika
+Warning: Torch will be replaced by sword when committed
 $ ssh -T git@github.com
 Sorry, you are too loud.
 $ 
