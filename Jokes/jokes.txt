@@ -15,12 +15,14 @@ $ git checkout Amerika
 Warning: Torch will be replaced by sword when committed
 $ ssh -T git@github.com
 Sorry, you are too loud.
-$ sudo freedom_to_install.dll
+$ sudo freedom
 Sorry, permission denied
+$ pseudofreedom
+NICE TRY
 $ sudo install_eclipse --hack
 SorrAUTHENTICATING: NMargolis upgraded to admin
 Installing-done
 Removing access-Dy, permission Denied
-$ git commit -m "AMERIKAAAAAAA!!!!!!"
-DONE
+$ git commit -m "America!"
+YOUR COMMIT IS BETTER THAN ALL OTHER COMMITS IN THE WORLD!
 $ 

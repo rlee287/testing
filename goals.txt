@@ -5,6 +5,7 @@ Goals:
     -Learn how to use VIM effectively
     -Study undocumented commands
     -Set up SSH keys and learn difference between SSH and HTTPS(Recommend?)
+    -Learn which commands MINGW64 supports
 
 Desktop Client:
     -Find out if and why GitHub Desktop is buggy
