@@ -21,4 +21,6 @@ $ sudo install_eclipse --hack
 SorrAUTHENTICATING: NMargolis upgraded to admin
 Installing-done
 Removing access-Dy, permission Denied
+$ git commit -m "AMERIKAAAAAAA!!!!!!"
+DONE
 $ 
