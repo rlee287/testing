@@ -15,5 +15,10 @@ $ git checkout Amerika
 Warning: Torch will be replaced by sword when committed
 $ ssh -T git@github.com
 Sorry, you are too loud.
+$ sudo freedom_to_install.dll
+Sorry, permission denied
+$ sudo install_eclipse --hack
+SorrAUTHENTICATING: NMargolis upgraded to admin
+Installing-done
+Removing access-Dy, permission Denied
 $ 
-
