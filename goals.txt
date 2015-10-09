@@ -4,7 +4,7 @@ Goals:
     -Follow GitHowTo Tutorials (www.githowto.com)
     -Learn how to use VIM effectively
     -Study undocumented commands
-    -Set up SSH keys and learn difference between SSH and HTTPS(Recommend HTTPS)
+    -Set up SSH keys and learn difference between SSH and HTTPS(Recommend?)
 
 Desktop Client:
     -Find out if and why GitHub Desktop is buggy
