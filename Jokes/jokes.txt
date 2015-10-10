@@ -31,4 +31,6 @@ Removing access-DONEy, permission denied
 $ git commit -m "America!"
 IS YOUR COMMIT IS BETTER THAN ALL OTHER COMMITS IN THE WORLD? (y/n) y
 WHOPPEEE!!
+$ echo $PATH
+Unworn
 $ 
