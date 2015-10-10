@@ -13,16 +13,18 @@ Currently a verminous bug
 Has been added to .gitignore
 $ git checkout Amerika
 Warning: Torch will be replaced by sword when committed
+$ git status GSamsa
+fatal: GSamsa is in a stale state and has been garbage collected
 $ ssh -T git@github.com
 Sorry, you are too loud.
 $ sudo freedom
 Sorry, permission denied
-$ pseudofreedom
+$ $pseudofreedom
 NICE TRY
 $ sudo install_eclipse --hack
 SorrAUTHENTICATING: NMargolis upgraded to admin
 Installing-done
-Removing access-Dy, permission Denied
+Removing access-DONEy, permission Denied
 $ git commit -m "America!"
 YOUR COMMIT IS BETTER THAN ALL OTHER COMMITS IN THE WORLD!
 $ 
