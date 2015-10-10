@@ -1,6 +1,7 @@
 Goals:
     -Practice branching from gitbash (--no-ff or -ff)
     -Practice merge conflict resolution
+    -REMEMBER REMOTE PRUNING!
     -Follow GitHowTo Tutorials (www.githowto.com)
     -Learn how to use VIM effectively
     -Study undocumented commands
