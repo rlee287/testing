@@ -30,7 +30,9 @@ Installing-done
 Removing access-DONEy, permission denied
 $ git commit -m "America!"
 IS YOUR COMMIT IS BETTER THAN ALL OTHER COMMITS IN THE WORLD? (y/n) y
-WHOPPEEE!!
 $ echo $PATH
 Unworn
+$ git pull medicine
+$ echo $PATH
+Worn by Eudora Weltly
 $ 
