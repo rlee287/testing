@@ -11,10 +11,13 @@ JosephK.dll documentation can be found in https://en.wikipedia.org/wiki/The_Tria
 $ git status GSamsa
 Currently a verminous bug
 Has been added to .gitignore
-$ git checkout Amerika
-Warning: Torch will be replaced by sword when committed
+$ git blame GSamsa
+Warning: already blamed by family
+GSamsa now considered worthless by world
 $ git status GSamsa
 fatal: GSamsa is in a stale state and has been garbage collected
+$ git checkout Amerika
+Warning: Torch will be replaced by sword when committed
 $ ssh -T git@github.com
 Sorry, you are too loud.
 $ sudo freedom
@@ -24,7 +27,8 @@ NICE TRY
 $ sudo install_eclipse --hack
 SorrAUTHENTICATING: NMargolis upgraded to admin
 Installing-done
-Removing access-DONEy, permission Denied
+Removing access-DONEy, permission denied
 $ git commit -m "America!"
-YOUR COMMIT IS BETTER THAN ALL OTHER COMMITS IN THE WORLD!
+IS YOUR COMMIT IS BETTER THAN ALL OTHER COMMITS IN THE WORLD? (y/n) y
+WHOPPEEE!!
 $ 

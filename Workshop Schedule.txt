@@ -1,4 +1,4 @@
--Software Install Party (10/8)
+-Software Install Party (10/8):DONE
     -Gitbash, GitGUI and/or Github Desktop
     -Eclipse (Luna)
         -CDT for Eclipse Java
@@ -8,4 +8,5 @@
     -Basic commands
         -Pulling code
         -Opening code
+-NI Update Suite?
 -Deploying code onto RoboRIO
