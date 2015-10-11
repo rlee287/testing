@@ -22,7 +22,7 @@ $ ssh -T git@github.com
 Sorry, you are too loud.
 $ sudo freedom
 Sorry, permission denied
-$ $pseudofreedom
+$ $freedom=sudo
 NICE TRY
 $ sudo install_eclipse --hack
 SorrAUTHENTICATING: NMargolis upgraded to admin
