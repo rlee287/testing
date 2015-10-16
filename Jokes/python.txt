@@ -1,0 +1,25 @@
+>>> from __future__ import 1984
+>>> war is peace
+true
+>>> freedom is slavery
+true
+>>> ignorance is strength
+true
+>>> 2+2==5
+true
+>>> 2+2==4
+True
+>>> import unpersonify
+>>> unpersonify.memoryhole
+[]
+>>> unpersonify.unpersonify("Winston Smith")
+Error: There has never existed-and there will never exist-a person named Winston Smith
+>>> unpersonify.memoryhole
+[,]
+>>> Winston Smith
+Error: No object named Winston Smith
+>>> type(Winston Smith)
+<class "unperson">
+>>> len(unpersonify.memoryhole)
+0
+>>>
