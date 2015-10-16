@@ -35,4 +35,9 @@ Unworn
 $ git pull medicine
 $ echo $PATH
 Worn by Eudora Welty
-$ 
+$ cd ../Shakespeare
+$ git add actors.txt
+$ git commit -m "Perform Play"
+Play performed successfully
+$ git push origin off_stage
+$
