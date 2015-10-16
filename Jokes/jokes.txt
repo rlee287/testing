@@ -18,7 +18,7 @@ $ git status GSamsa
 fatal: GSamsa is in a stale state and has been garbage collected
 $ git checkout Amerika
 Warning: Torch will be replaced by sword when committed
-$ ssh -T git@github.com
+$ ssh -T noisy@github.com
 Sorry, you are too loud.
 $ sudo freedom
 Sorry, permission denied
@@ -34,5 +34,5 @@ $ echo $PATH
 Unworn
 $ git pull medicine
 $ echo $PATH
-Worn by Eudora Weltly
+Worn by Eudora Welty
 $ 

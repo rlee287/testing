@@ -9,4 +9,4 @@
         -Pulling code
         -Opening code
 -NI Update Suite?
--Deploying code onto RoboRIO
+-Deploying code onto RoboRIO?
