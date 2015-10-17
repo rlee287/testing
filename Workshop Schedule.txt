@@ -1,8 +1,10 @@
--Software Install Party (10/8):DONE
+DONE:
+-Software Install Party (10/8)
     -Gitbash, GitGUI and/or Github Desktop
     -Eclipse (Luna)
         -CDT for Eclipse Java
         -Java for Eclipse C/C++
+To Do:
 -Github Tutorials
     -Setting up gitconfig and SSH vs HTTPS
     -Basic commands

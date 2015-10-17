@@ -1,5 +1,5 @@
 Goals:
-    -Practice branching from gitbash (--no-ff or -ff)
+    -Practice branching from gitbash (--no-ff for pull requests, -ff for pull)
     -Practice merge conflict resolution
     -REMEMBER REMOTE PRUNING!
     -Follow GitHowTo Tutorials (www.githowto.com)
