@@ -39,5 +39,5 @@ $ cd ../Shakespeare
 $ git add actors.txt
 $ git commit -m "Perform Play"
 Play performed successfully
-$ git push origin off_stage
-$
+$ git push actors off_stage
+$ 
