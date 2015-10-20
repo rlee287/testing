@@ -30,13 +30,14 @@ Installing-done
 Removing access-DONEy, permission denied
 $ git commit -m "America!"
 IS YOUR COMMIT IS BETTER THAN ALL OTHER COMMITS IN THE WORLD? (y/n) y
+OVERWRITING FOREIGN COMMITS: SUPERIORITY IMPOSED
 $ echo $PATH
 Unworn
 $ git pull medicine
 $ echo $PATH
 Worn by Eudora Welty
 $ cd ../Shakespeare
-$ git add actors.txt
+$ git add actors.txt # stage
 $ git commit -m "Perform Play"
 Play performed successfully
 $ git push actors off_stage

@@ -5,7 +5,8 @@ DONE:
         -CDT for Eclipse Java
         -Java for Eclipse C/C++
 To Do:
--Github Tutorials
+-Github Email (GitHowTo, Try Git)
+-Github Workshops?
     -Setting up gitconfig and SSH vs HTTPS
     -Basic commands
         -Pulling code
