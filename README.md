@@ -1,7 +1,7 @@
 # testing
 This is a testing repository to learn how GitHub works
 
-Commit descriptions (partially) inspired by XKCD
+Commit descriptions nonsensical
 
 It also includes planning of workshops
 
