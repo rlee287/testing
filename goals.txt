@@ -4,7 +4,7 @@ Goals:
     -REMEMBER REMOTE PRUNING!
     -Follow GitHowTo Tutorials (www.githowto.com)
     -Study undocumented commands
-    -Set up SSH keys and learn difference between SSH and HTTPS(Recommend?)
+    -Learn difference between SSH and HTTPS(Recommend?)
     -Learn which commands MINGW64 supports
 
 Desktop Client:
