@@ -7,7 +7,7 @@ DONE:
 To Do:
 -Github Email (GitHowTo, Try Git)
 -Github Workshops?
-    -Setting up gitconfig and SSH vs HTTPS
+    -Set up SSH vs HTTPS
     -Basic commands
         -Pulling code
         -Opening code
