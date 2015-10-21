@@ -10,7 +10,7 @@ JosephK.dll exited with exit code 38659503962656(0x2e291e003a20).
 JosephK.dll documentation can be found in https://en.wikipedia.org/wiki/The_Trial
 $ git status GSamsa
 Currently a verminous bug
-Currently in .gitignore
+Has been added to .gitignore
 $ git blame GSamsa
 Warning: already blamed by family
 GSamsa now considered worthless by world
