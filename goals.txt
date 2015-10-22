@@ -2,7 +2,7 @@ Goals:
     -Practice branching from gitbash (--no-ff for pull requests, -ff for pull)
     -Practice merge conflict resolution
     -REMEMBER REMOTE PRUNING!
-    -Why fast-forwarding can be weird sometimes?
+    -Why fast-forwarding weird sometimes?
     -Follow GitHowTo Tutorials (www.githowto.com)
     -Study undocumented commands
     -Learn difference between SSH and HTTPS(Recommend?)
@@ -13,5 +13,4 @@ Desktop Client:
     -Learn what it can do
 
 GitGUI:
-    -Learn how to commit and so on
     -Learn to use GUI to resolve merge conflicts
