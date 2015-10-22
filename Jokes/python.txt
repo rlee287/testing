@@ -22,4 +22,6 @@ Error: No object named Winston Smith
 <class "unperson">
 >>> len(unpersonify.memoryhole)
 0
->>>
+>>> help("The State")
+YOU MUST ACCEPT BIG BROTHER'S LOVE...OR ELSE
+>>> 
