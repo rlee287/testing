@@ -3,6 +3,7 @@ Goals:
     -Practice merge conflict resolution
     -REMEMBER REMOTE PRUNING!
     -Why fast-forwarding weird sometimes?
+    -GPG sign things
     -Follow GitHowTo Tutorials (www.githowto.com)
     -Study undocumented commands
     -Learn difference between SSH and HTTPS(Recommend?)
