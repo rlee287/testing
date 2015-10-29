@@ -6,7 +6,6 @@ Goals:
     -GPG sign things
     -Follow GitHowTo Tutorials (www.githowto.com)
     -Study undocumented commands
-    -Learn difference between SSH and HTTPS(Recommend?)
     -Learn which commands MINGW64 supports
 
 Desktop Client:
