@@ -37,7 +37,7 @@ $ git pull medicine
 $ echo $PATH
 Worn by Eudora Welty
 $ cd ../Shakespeare
-$ git add actors.txt # stage
+$ git stage actors.txt # stage
 $ git commit -m "Perform Play"
 Play performed successfully
 $ git push actors off_stage
