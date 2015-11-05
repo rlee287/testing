@@ -3,7 +3,7 @@ Goals:
     -Practice merge conflict resolution
     -REMEMBER REMOTE PRUNING!
     -Why fast-forwarding weird sometimes?
-    -GPG sign things
+    -Decide when to GPG sign things
     -Follow GitHowTo Tutorials (www.githowto.com)
     -Study undocumented commands
     -Learn which commands MINGW64 supports
