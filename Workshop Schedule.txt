@@ -4,8 +4,9 @@ DONE:
     -Eclipse (Luna)
         -CDT for Eclipse Java
         -Java for Eclipse C/C++
-To Do:
 -Github Email (GitHowTo, Try Git)
+
+To Do:
 -Github Workshops?
     -Set up SSH vs HTTPS
     -Basic commands
