@@ -8,7 +8,6 @@ DONE:
 
 To Do:
 -Github Workshops?
-    -Set up SSH vs HTTPS
     -Basic commands
         -Pulling code
         -Opening code
