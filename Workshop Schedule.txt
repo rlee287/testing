@@ -7,9 +7,10 @@ DONE:
 -Github Email (GitHowTo, Try Git)
 
 To Do:
--Github Workshops?
+-Github and Java Workshops (1/7)
     -Basic commands
         -Pulling code
         -Opening code
+    -Framework
 -NI Update Suite?
 -Deploying code onto RoboRIO?
