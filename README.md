@@ -6,3 +6,5 @@ Commit descriptions sometimes nonsensical
 It also includes planning
 
 Undocumented commands: `vim`, `gitpad`, `ssh` related, `gpg` related
+
+Test API statuses
