@@ -2,7 +2,6 @@ Goals:
     -Practice branching from gitbash (--no-ff for pull requests, -ff for pull)
     -Practice merge conflict resolution
     -REMEMBER REMOTE PRUNING!
-    -Why fast-forwarding weird sometimes?
     -Follow GitHowTo Tutorials (www.githowto.com)
     -Study undocumented commands
     -Learn which commands MINGW64 supports
