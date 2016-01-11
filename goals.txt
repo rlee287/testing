@@ -11,5 +11,3 @@ Desktop Client:
     -Find out if and why GitHub Desktop is buggy
     -Learn what it can do
 
-GitGUI:
-    -Learn to use GUI to resolve merge conflicts
