@@ -5,12 +5,12 @@ DONE:
         -CDT for Eclipse Java
         -Java for Eclipse C/C++
 -Github Email (GitHowTo, Try Git)
-
-To Do:
 -Github and Java Workshops (1/7)
     -Basic commands
         -Pulling code
         -Opening code
     -Framework
+
+TODO:
 -NI Update Suite?
 -Deploying code onto RoboRIO?

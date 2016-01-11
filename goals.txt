@@ -2,7 +2,6 @@ Goals:
     -Practice branching from gitbash (--no-ff for pull requests, -ff for pull)
     -Practice merge conflict resolution
     -REMEMBER REMOTE PRUNING!
-    -Why fast-forwarding weird sometimes?
     -Follow GitHowTo Tutorials (www.githowto.com)
     -Study undocumented commands
     -Learn which commands MINGW64 supports
@@ -12,5 +11,3 @@ Desktop Client:
     -Find out if and why GitHub Desktop is buggy
     -Learn what it can do
 
-GitGUI:
-    -Learn to use GUI to resolve merge conflicts
