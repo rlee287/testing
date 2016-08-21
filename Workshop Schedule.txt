@@ -11,6 +11,3 @@ DONE:
         -Opening code
     -Framework
 
-TODO:
--NI Update Suite?
--Deploying code onto RoboRIO?
