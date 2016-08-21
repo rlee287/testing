@@ -1,13 +1,5 @@
 Goals:
-    -Practice branching from gitbash (--no-ff for pull requests, -ff for pull)
-    -Practice merge conflict resolution
-    -REMEMBER REMOTE PRUNING!
+    -Remote pruning can be done automatically
     -Follow GitHowTo Tutorials (www.githowto.com)
     -Study undocumented commands
     -Learn which commands MINGW64 supports
-    -Learn submodules
-
-Desktop Client:
-    -Find out if and why GitHub Desktop is buggy
-    -Learn what it can do
-
